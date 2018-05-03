@@ -44,8 +44,8 @@ to get your new, final config.
 `output.json`
 ```
 {
-	"company": "Acme Corp",
-	"environment": "staging"
+  "company": "Acme Corp",
+  "environment": "staging"
 }
 ```
 
